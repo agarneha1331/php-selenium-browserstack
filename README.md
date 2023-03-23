@@ -32,11 +32,6 @@ You can also set them as environment variables `BROWSERSTACK_USERNAME` and `BROW
   ```
 
 ## To run tests
-### Single test
-Run single test session by running.
-```
-php scripts/single.php
-```
 ### Parallel test
 Run parallel test session by running.
 ```
